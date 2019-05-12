@@ -1,0 +1,39 @@
+body {
+	 background-image: url("devbg.jpg");
+	 background-repeat: no-repeat,repeat;
+	 background-position: center;
+	 background-size: cover;
+}
+.log {
+	margin-bottom: 5px !important;
+}
+.dev {
+	margin-left: 1px !important;
+	align-items: center !important;
+	align-content: center !important;
+	float: center !important;
+}
+.butn {
+	margin-left: 140px !important;
+}
+.fa {
+    font-size: 20px !important;
+    font-weight: bold;
+}
+.update-btn, .delete-btn {
+    margin: 2%;
+}
+.add-btn,.sort-btn {
+    font-size: 19px !important;
+}
+.btns-div {
+    margin-bottom: 2%;
+}
+.der  {
+    width: 100%;
+}
+.nav-bar {
+   padding: 2%;
+   margin-bottom: 2%;
+   font-family: 'Assistant', sans-serif !important;
+}
